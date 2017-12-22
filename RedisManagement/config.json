@@ -1,0 +1,10 @@
+﻿{
+  "AppSettings": {
+    "SiteTitle": "Dnx.Sample"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Dnx.Sample-b60c6e19-ac70-4f37-8cf5-6f1799796f5;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

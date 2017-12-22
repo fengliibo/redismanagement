@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{2CB30E72-1264-491B-B801-018D81F7FB28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RedisManagement/Program.cs">
+    <Files>
+      <File FileName="RedisManagement/Program.cs" Line="22" Column="1" />
+      <File FileName="RedisManagement/packages.config" Line="1" Column="1" />
+      <File FileName="RedisManagement/config.json" Line="10" Column="2" />
+      <File FileName="RedisManagement/DoRedisHash.cs" Line="42" Column="17" />
+      <File FileName="RedisManagement/DoRedisString.cs" Line="6" Column="31" />
+      <File FileName="RedisManagement/RedisConfig.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RedisManagement" expanded="True">
+            <Node name="RedisManagement" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nick/Projects/RedisManagement/RedisManagement/Program.cs" relfile="RedisManagement/Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/nick/Projects/RedisManagement/RedisManagement/RedisConfig.cs" relfile="RedisManagement/RedisConfig.cs" line="16" column="66" />
+      <Breakpoint file="/Users/nick/Projects/RedisManagement/RedisManagement/Program.cs" relfile="RedisManagement/Program.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RedisManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
